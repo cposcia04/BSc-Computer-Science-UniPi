@@ -1,6 +1,6 @@
 # BSc Computer Science UniPi
 
 ## Primo anno
-[Laboratorio I](./LaboratorioI)
+[Laboratorio I](./Laboratorio%20I)
 
 
