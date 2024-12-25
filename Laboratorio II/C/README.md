@@ -7,6 +7,11 @@
 N.B.: ricordate che ogni carattere puo’ essere visto come un intero.
 * [Esercizio 4](./OrdinaCaratteri.c): Scrivere il programma OrdinaCaratteri che chiede all’utente due caratteri, verifica se il primo carattere precede il secondo in ordine alfabetico e, in questo caso stampa il carattere <, se sono uguali stampa ”=”, se il primo segue il secondo stampa >.
 * [Esercizio 5](./max.c): Scrivere un programma che legga da tastiera tre numeri interi e stampi il massimo tra i tre.
+* [Esercizio 6](./calc.c): Scrivere un programma che legga da tastiera due numeri a e b (anche con virgola) e un operatore tra + - / % e stampi il risultato, con una singola cifra decimale, ottenuto applicando l’operatore ai due numeri inseriti.
+Nota: / rappresenta la divisione tra reali (mai intera).
+Nota: per l’operazione % gli operandi sono parte intera di a e parte intera di b.
+
+
 
 
 
