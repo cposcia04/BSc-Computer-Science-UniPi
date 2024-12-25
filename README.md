@@ -5,3 +5,4 @@
 
 ## Secondo anno 
 * [Laboratorio II](./Laboratorio%20II)
+* [Paradigmi di Programmazione](./PdP)
