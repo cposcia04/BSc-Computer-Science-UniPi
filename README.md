@@ -1,1 +1,1 @@
-# Informatica-UniPi
+# BSc Computer Science UniPi
