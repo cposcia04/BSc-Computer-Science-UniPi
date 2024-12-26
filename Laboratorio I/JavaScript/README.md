@@ -1,5 +1,10 @@
 # Esercizi JavaScript
 
+## Array
+**[Esercizio 1](./flattenNestedArray.js)**: Un array annidato, o nested, è un array che contiene al suo interno degli interi e/o altri array annidati.
+Si scriva una funzione Javascript flattenNestedArray che dato un array annidato restituisca un array contenente tutti gli interi nell'ordine di occorrenza.
+Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
+
 ## Classi
 * **[Esercizio 1](talk.js)**: Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
 i cui campi sono _title_ (stringa), _speaker_ (stringa) e _duration_ (numerico, in minuti). 
@@ -15,4 +20,6 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 
 * **[callCounted](./callCounted.js)**: Scrivere una funzione callCounted che, data una funzione f, restituisce una funzione g che si comporta esattamente come f, con l'aggiunta però di una proprietà g.calls che contiene, in ogni istante, 
 il numero di volte che g è stata invocata.
+
+
 
