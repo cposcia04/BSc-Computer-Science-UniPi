@@ -9,7 +9,7 @@ Si scriva una funzione Javascript flattenNestedArray che dato un array annidato 
 Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
 
 ## **Classi**
-**[Esercizio 1](talk.js)**: Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
+[Gestione di talk](talk.js): Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
 i cui campi sono _title_ (stringa), _speaker_ (stringa) e _duration_ (numerico, in minuti). 
 Il sistema prevede la possibilità di definire tre tipi specifici di Talk, ovvero **Lecture**, **Seminar** e **Webinar**:
 La classe Lecture rappresenta una lezione di un dato **course**, indicato nel costruttore, e fornisce un **getter-setter** **teacher** che corrisponde allo speaker del talk in questione. La **classe Seminar** rappresenta un seminario tenuto all'interno di un dato **event**, indicato nel costruttore.
