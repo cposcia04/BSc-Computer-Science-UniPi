@@ -23,9 +23,8 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 [sxltdx](./sxltdx.js): Si scriva una funzione sxltdx(T) che, dato un albero binario T come definito a lezione, in cui i nodi hanno valore numerico, modifichi l'albero scambiando fra loro i figli sx e dx di ogni nodo se sono entrambi presenti, in modo che il valore del figlio destro sia sempre maggiore o uguale al valore del figlio sinistro.
 
 [Trova padre](./trovaPadre.js): Si scriva una funzione trovaPadre(T,n) che, dato un albero k-ario T, e un nodo n appartenente a T, restituisca il nodo padre di n in T. Se n è la radice di T, allora trovaPadre deve restituire undefined.
-[Taglia rami](./tagliaRami.js): 
 
-
+[Taglia rami](./tagliaRami.js): Sia T un albero k-ario, e v un valore valido per un nodo dell'albero. Si scriva una funzione JavaScript tagliaRami(T,v) che modifichi T tagliando tutti i rami (attenzione: non la radice!) che hanno valore val divisore di v. L'operazione di taglio di un nodo elimina dall'albero il nodo in questione, e l'eventuale sotto-albero radicato nel nodo.
 
 
 
