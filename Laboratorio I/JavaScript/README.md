@@ -9,7 +9,7 @@ Si scriva una funzione Javascript flattenNestedArray che dato un array annidato 
 Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
 
 ## **Classi**
-* **[Esercizio 1](talk.js)**: Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
+**[Esercizio 1](talk.js)**: Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
 i cui campi sono _title_ (stringa), _speaker_ (stringa) e _duration_ (numerico, in minuti). 
 Il sistema prevede la possibilità di definire tre tipi specifici di Talk, ovvero **Lecture**, **Seminar** e **Webinar**:
 La classe Lecture rappresenta una lezione di un dato **course**, indicato nel costruttore, e fornisce un **getter-setter** **teacher** che corrisponde allo speaker del talk in questione. La **classe Seminar** rappresenta un seminario tenuto all'interno di un dato **event**, indicato nel costruttore.
@@ -22,13 +22,13 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 ## Alberi
 [sxltdx](./sxltdx.js): Si scriva una funzione sxltdx(T) che, dato un albero binario T come definito a lezione, in cui i nodi hanno valore numerico, modifichi l'albero scambiando fra loro i figli sx e dx di ogni nodo se sono entrambi presenti, in modo che il valore del figlio destro sia sempre maggiore o uguale al valore del figlio sinistro.
 
-[Class BNode](./BNode.js):
+[Class BNode](./piaga.js):
 
 
 
 ---
 
-* **[callCounted](./callCounted.js)**: Scrivere una funzione callCounted che, data una funzione f, restituisce una funzione g che si comporta esattamente come f, con l'aggiunta però di una proprietà g.calls che contiene, in ogni istante, 
+**[callCounted](./callCounted.js)**: Scrivere una funzione callCounted che, data una funzione f, restituisce una funzione g che si comporta esattamente come f, con l'aggiunta però di una proprietà g.calls che contiene, in ogni istante, 
 il numero di volte che g è stata invocata.
 
 
