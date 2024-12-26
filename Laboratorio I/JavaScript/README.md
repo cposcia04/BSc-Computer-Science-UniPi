@@ -22,7 +22,9 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 ## Alberi
 [sxltdx](./sxltdx.js): Si scriva una funzione sxltdx(T) che, dato un albero binario T come definito a lezione, in cui i nodi hanno valore numerico, modifichi l'albero scambiando fra loro i figli sx e dx di ogni nodo se sono entrambi presenti, in modo che il valore del figlio destro sia sempre maggiore o uguale al valore del figlio sinistro.
 
-[Class BNode](./piaga.js):
+[Trova padre](./trovaPadre.js): Si scriva una funzione trovaPadre(T,n) che, dato un albero k-ario T, e un nodo n appartenente a T, restituisca il nodo padre di n in T. Se n è la radice di T, allora trovaPadre deve restituire undefined.
+
+
 
 
 
