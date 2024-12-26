@@ -20,7 +20,12 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 **Se non ci sono seminari, restituisce undefined.**
 
 ## Alberi
-[Esercizio 1](./BNode.js):
+[sxltdx](./sxltdx.js): Si scriva una funzione sxltdx(T) che, dato un albero binario T come definito a lezione, in cui i nodi hanno valore numerico, modifichi l'albero scambiando fra loro i figli sx e dx di ogni nodo se sono entrambi presenti, in modo che il valore del figlio destro sia sempre maggiore o uguale al valore del figlio sinistro.
+Nota: il codice iniziale include una funzione genTBin() (potete invocarla senza parametri) che potete chiamare per generare degli alberi di prova.
+
+[Class BNode](./BNode.js):
+
+
 
 ---
 
