@@ -28,10 +28,11 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 
 
 
----
+## Funzioni e generatori
 
 **[callCounted](./callCounted.js)**: Scrivere una funzione callCounted che, data una funzione f, restituisce una funzione g che si comporta esattamente come f, con l'aggiunta però di una proprietà g.calls che contiene, in ogni istante, 
 il numero di volte che g è stata invocata.
+[Decadimento](./decadimento.js): 
 
 
 
