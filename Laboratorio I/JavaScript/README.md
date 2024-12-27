@@ -32,7 +32,8 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 
 **[callCounted](./callCounted.js)**: Scrivere una funzione callCounted che, data una funzione f, restituisce una funzione g che si comporta esattamente come f, con l'aggiunta però di una proprietà g.calls che contiene, in ogni istante, 
 il numero di volte che g è stata invocata.
-[Decadimento](./decadimento.js): 
+
+[Decadimento](./decadimento.js): Si definisca un generatore decadimento(n,k) che, dato in input un numero n, generi infiniti numeri interi ottenuti dividendo n per potenze successive di k. In altre parole, il generatore restituirà n/(k^0) la prima volta che viene invocato, poi a seguire n/(k^1), n/(k^2), n/(k^3), e così via. Si arrotondi ciascun valore generato da decadimento(n,k) all'intero più vicino utilizzando Math.round. Si assuma inoltre k come sempre diverso da 0.
 
 
 
