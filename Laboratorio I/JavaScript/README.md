@@ -28,7 +28,7 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 
 [Profondità minima](./minDepth.js): Si scriva una funzione JS minDepth(T), dove T è un albero binario (oggetti con chiavi val e sx e dx). La funzione deve restituire la minima profondità dell'albero T: la lunghezza del cammino più corto tra tutti quelli che vanno dalla radice alle sue foglie (la radice ha profondità zero).
 
-[Taglia rami interi](./taglia_rami_interni.js): Dato un albero k-ario T, definire una funzione ricorsiva taglia_nodi_interni che, preso in input un intero positivo m, modifica T in-place, rimuovendo tutti i nodi interni (e i rispettivi sottalberi) che hanno meno di m figli.
+[Taglia rami interni](./taglia_rami_interni.js): Dato un albero k-ario T, definire una funzione ricorsiva taglia_nodi_interni che, preso in input un intero positivo m, modifica T in-place, rimuovendo tutti i nodi interni (e i rispettivi sottalberi) che hanno meno di m figli.
 L'albero vuoto è codificato con il valore null.
 
 
