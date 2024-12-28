@@ -9,3 +9,8 @@
 * [Paradigmi di Programmazione](./PdP)
 * [Architetture e Sistemi Operativi](./AESO)
 * Ricerca Operativa
+
+## Terzo anno
+* Reti e Laboratorio III
+* Basi di Dati
+* Ingegneria del Software
