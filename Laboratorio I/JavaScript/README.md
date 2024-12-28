@@ -8,6 +8,12 @@ che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo ste
 Si scriva una funzione Javascript flattenNestedArray che dato un array annidato restituisca un array contenente tutti gli interi nell'ordine di occorrenza.
 Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
 
+## Basi numeriche
+
+[](./zeriuni.js): Scrivere una funzione zeriuni che, dato un numero n (intero e positivo), restituisce un array di 0 e 1 che rappresenti la sua codifica su 8 bit. Gli 0 e 1 devono essere rappresentati come numeri, mettendo il più significativo nella posizione 0 dell'array restituito, e quello meno significativo nella posizione 7. La funzione zeriuni deve inoltre lanciare due eccezioni NonIntegerError e OutOfRangeError definite opportunamente:
+l'eccezione NonIntegerError viene lanciata da zeriuni(n) quando il numero n non è intero, mentre
+l'eccezione OutOfRangeError viene lanciata da zeriuni(n) quando il numero n è fuori dal range degli interi positivi rappresentabili su 8 bit.
+
 ## **Classi**
 [Gestione di talk](talk.js): Si consideri un sistema di gestione di talk, dove un generico talk è rappresentabile mediante la **classe Talk**, 
 i cui campi sono _title_ (stringa), _speaker_ (stringa) e _duration_ (numerico, in minuti). 
