@@ -26,6 +26,8 @@ Si implementi inoltre una **funzione pickSeminar** che, dato un **array talk**s 
 
 [Taglia rami](./tagliaRami.js): Sia T un albero k-ario, e v un valore valido per un nodo dell'albero. Si scriva una funzione JavaScript tagliaRami(T,v) che modifichi T tagliando tutti i rami (attenzione: non la radice!) che hanno valore val divisore di v. L'operazione di taglio di un nodo elimina dall'albero il nodo in questione, e l'eventuale sotto-albero radicato nel nodo.
 
+[Profondità minima](./minDepth.js): Si scriva una funzione JS minDepth(T), dove T è un albero binario (oggetti con chiavi val e sx e dx). La funzione deve restituire la minima profondità dell'albero T: la lunghezza del cammino più corto tra tutti quelli che vanno dalla radice alle sue foglie (la radice ha profondità zero).
+
 
 
 ## Funzioni e generatori
