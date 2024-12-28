@@ -10,7 +10,7 @@ Nel caso base in cui l'array annidato non contiene interi, si restituisca l'arra
 
 ## Basi numeriche
 
-[](./zeriuni.js): Scrivere una funzione zeriuni che, dato un numero n (intero e positivo), restituisce un array di 0 e 1 che rappresenti la sua codifica su 8 bit. Gli 0 e 1 devono essere rappresentati come numeri, mettendo il più significativo nella posizione 0 dell'array restituito, e quello meno significativo nella posizione 7. La funzione zeriuni deve inoltre lanciare due eccezioni NonIntegerError e OutOfRangeError definite opportunamente:
+[Codifica binaria](./zeriuni.js): Scrivere una funzione zeriuni che, dato un numero n (intero e positivo), restituisce un array di 0 e 1 che rappresenti la sua codifica su 8 bit. Gli 0 e 1 devono essere rappresentati come numeri, mettendo il più significativo nella posizione 0 dell'array restituito, e quello meno significativo nella posizione 7. La funzione zeriuni deve inoltre lanciare due eccezioni NonIntegerError e OutOfRangeError definite opportunamente:
 l'eccezione NonIntegerError viene lanciata da zeriuni(n) quando il numero n non è intero, mentre
 l'eccezione OutOfRangeError viene lanciata da zeriuni(n) quando il numero n è fuori dal range degli interi positivi rappresentabili su 8 bit.
 
