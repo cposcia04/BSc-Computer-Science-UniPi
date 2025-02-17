@@ -1,6 +1,6 @@
 # Esercizi JavaScript
 
-## **Livello 1: Array e cicli**
+## **Livello 1: [Array e cicli]**
 
 <details>
   <summary> Somma dei primi n numeri</summary>
