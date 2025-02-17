@@ -4,7 +4,7 @@
 
 <details>
   <summary> Somma dei primi n naturali</summary>
-  Scrivere una funzione sum(n) che, preso un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
+  Scrivere una funzione [sum(n)](./sum.js) che, preso un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
 </details>
 
 [Prodotto scalare](./prodotto_scalare.js): Si definisca una funzione prodotto_scalare(x,y)
