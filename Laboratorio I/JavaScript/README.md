@@ -15,6 +15,12 @@ Scrivere una funzione [trovaIndice(arr,x)](./trovaIndice.js) con arr un array or
  Se non occorre in la funzione restituisce -1.
 </details>
 
+<details> 
+<summary> Conta elementi maggiori di una certa soglia</summary>
+  
+  Scrivere una funzione [contaMaggiore(arr,soglia)](./Array%20e%20cicli/contaMaggiore.js) che calcoli il numero di elementi di arr che sono maggiori di soglia.
+  
+  /details>
 
 [Prodotto scalare](./prodotto_scalare.js): Si definisca una funzione prodotto_scalare(x,y)
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
