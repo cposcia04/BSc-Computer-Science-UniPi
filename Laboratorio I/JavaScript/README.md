@@ -3,9 +3,12 @@
 ## **Array e cicli**
 
 <details>
-  <summary> Somma dei primi n naturali</summary>
-  Scrivere una funzione [sum(n)](./sum.js) che, preso un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
+  <summary>🔹 Somma dei primi n numeri</summary>
+
+  Puoi trovare la funzione [sum(n)](./sum.js) nel file `sum.js`.
+
 </details>
+
 
 [Prodotto scalare](./prodotto_scalare.js): Si definisca una funzione prodotto_scalare(x,y)
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
