@@ -1,6 +1,17 @@
 # Esercizi JavaScript
 
-## **Array**
+## **Array e cicli**
+[]
+
+<details>
+  <summary>🔹 Primo Punto</summary>
+  
+  - Sottoelemento 1
+  - Sottoelemento 2
+  - Sottoelemento 3
+
+</details>
+
 [Prodotto scalare](./prodotto_scalare.js): Si definisca una funzione prodotto_scalare(x,y)
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
 
