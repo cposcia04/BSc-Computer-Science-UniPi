@@ -1,10 +1,9 @@
 # Esercizi JavaScript
 
 ## **Array e cicli**
-[]
 
 <details>
-  <summary> Somma dei primi n naturali </summary>
+  <summary> [Somma dei primi n naturali](./sum.js) </summary>
   Scrivere una funzione sum(n) che, preso un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
 </details>
 
