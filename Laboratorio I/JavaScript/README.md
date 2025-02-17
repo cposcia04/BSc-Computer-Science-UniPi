@@ -1,12 +1,16 @@
 # Esercizi JavaScript
 
-## **Array e cicli**
+## **Livello 1: Array e cicli**
 
 <details>
   <summary> Somma dei primi n numeri</summary>
-
+  
   Scrivere una funzione [sum(n)](./sum.js) che, dato un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
+</details>
 
+<details>
+  <summary> Trova indice di</summary>
+  
 </details>
 
 
