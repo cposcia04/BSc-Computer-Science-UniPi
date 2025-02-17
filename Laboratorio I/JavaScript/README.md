@@ -5,7 +5,7 @@
 <details>
   <summary> Somma dei primi n numeri</summary>
   
-  Scrivere una funzione [sum(n)](./sum.js) che, dato un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
+  Scrivere una funzione [sum(n)](./Array%20e%20cicli./sum.js) che, dato un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
 </details>
 
 <details>
