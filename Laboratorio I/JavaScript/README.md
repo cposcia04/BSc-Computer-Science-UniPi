@@ -3,9 +3,9 @@
 ## **Array e cicli**
 
 <details>
-  <summary>🔹 Somma dei primi n numeri</summary>
+  <summary> Somma dei primi n numeri</summary>
 
-  Puoi trovare la funzione [sum(n)](./sum.js) nel file `sum.js`.
+  Scrivere una funzione [sum(n)](./sum.js) che, dato un intero n, calcoli e restituisca la somma dei numeri da 1 a n.
 
 </details>
 
