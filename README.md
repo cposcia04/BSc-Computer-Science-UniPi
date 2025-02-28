@@ -1,8 +1,11 @@
 # BSc Computer Science UniPi
 
 ## Primo anno
-* [Laboratorio I](./Laboratorio%20I)
-* [Programmazione e Algoritmica](./Programmazione%20e%20Algoritmica)
+* [Laboratorio I](./Laboratorio%20I) (12 cfu)
+* [Programmazione e Algoritmica](./Programmazione%20e%20Algoritmica) (15 cfu)
+* Fondamenti dell'Informatica (9 cfu)
+* Analisi Matematica (12 cfu)
+* Algebra lineare (6 cfu)
 
 ## Secondo anno 
 * [Laboratorio II](./Laboratorio%20II)
