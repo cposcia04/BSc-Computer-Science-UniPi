@@ -28,6 +28,7 @@ Si definisca una funzione [prodotto_scalare(x,y)](./Array%20e%20cicli/prodotto_s
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
  
 </details>
+<details>
 <summary>Array annidato</summary>
 
 Un array annidato, o nested, è un array che contiene al suo interno degli interi e/o altri array annidati.
