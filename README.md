@@ -8,12 +8,17 @@
 * Algebra lineare (6 cfu)
 
 ## Secondo anno 
-* [Laboratorio II](./Laboratorio%20II)
-* [Paradigmi di Programmazione](./PdP)
-* [Architetture e Sistemi Operativi](./AESO)
-* Ricerca Operativa
+* [Laboratorio II](./Laboratorio%20II) (12 cfu)
+* [Paradigmi di Programmazione](./PdP) (9 cfu)
+* [Architetture e Sistemi Operativi](./AESO) (15 cfu)
+* Ricerca Operativa (6 cfu)
+* Calcolo numerico (6 cfu)
+* Statistica (6 cfu)
 
 ## Terzo anno
-* Reti e Laboratorio III
-* Basi di Dati
-* Ingegneria del Software
+* Reti e Laboratorio III (9 cfu)
+* Basi di Dati (6 cfu)
+* Ingegneria del Software (6 cfu)
+* Introduzione all'intelligenza artificiale (6 cfu)
+
+
