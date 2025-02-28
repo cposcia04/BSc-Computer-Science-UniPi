@@ -29,8 +29,9 @@ che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo ste
  
 </details>
 <summary>Array annidato</summary>
-: Un array annidato, o nested, è un array che contiene al suo interno degli interi e/o altri array annidati.
-Si scriva una funzione Javascript [flattenNestedArray](./flattenNestedArray.js) che dato un array annidato restituisca un array contenente tutti gli interi nell'ordine di occorrenza.
+
+Un array annidato, o nested, è un array che contiene al suo interno degli interi e/o altri array annidati.
+Si scriva una funzione Javascript [flattenNestedArray](./Array%20e%20cicli/flattenNestedArray.js) che dato un array annidato restituisca un array contenente tutti gli interi nell'ordine di occorrenza.
 Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
 
 ## Basi numeriche
