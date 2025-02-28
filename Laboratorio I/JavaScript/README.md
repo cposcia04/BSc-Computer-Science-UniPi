@@ -23,9 +23,8 @@ Scrivere una funzione [trovaIndice(arr,x)](./trovaIndice.js) con arr un array or
 </details>
 <details>
 <summary>
-Calcolo del prodotto scalare
-</summary>
-[contaMaggiore(arr,soglia)](./Array%20e%20cicli/contaMaggiore.js): Si definisca una funzione prodotto_scalare(x,y)
+Calcolo del prodotto scalare </summary>
+Si definisca una funzione [prodotto_scalare(x,y)](./Array%20e%20cicli/prodotto_scalare.js)
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
  
 </details>
