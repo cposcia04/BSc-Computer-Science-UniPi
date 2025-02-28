@@ -21,10 +21,12 @@ Scrivere una funzione [trovaIndice(arr,x)](./trovaIndice.js) con arr un array or
   Scrivere una funzione [contaMaggiore(arr,soglia)](./Array%20e%20cicli/contaMaggiore.js) che calcoli il numero di elementi di arr che sono maggiori di soglia.
   
   </details>
-
+<details>
+  <summary>
 [Prodotto scalare](./prodotto_scalare.js): Si definisca una funzione prodotto_scalare(x,y)
 che dati due array ne ritorni il prodotto scalare. Se gli array non hanno lo stesso numero di componenti, la funzione ritorna undefined.
-
+  </summary>
+</details>
 [Array annidato 1](./flattenNestedArray.js): Un array annidato, o nested, è un array che contiene al suo interno degli interi e/o altri array annidati.
 Si scriva una funzione Javascript flattenNestedArray che dato un array annidato restituisca un array contenente tutti gli interi nell'ordine di occorrenza.
 Nel caso base in cui l'array annidato non contiene interi, si restituisca l'array vuoto. 
