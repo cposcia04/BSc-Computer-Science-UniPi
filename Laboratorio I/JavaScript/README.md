@@ -11,7 +11,7 @@
 <details>
   <summary> Trovare la posizione di un elemento in un array</summary>
   
-Scrivere una funzione [trovaIndice(arr,x)](./trovaIndice.js) con arr un array ordinato di numeri e x un numero, che restituisce la posizione della prima occorrenza di x in arr.
+Scrivere una funzione [trovaIndice(arr,x)](./Array%20e%20cicli/trovaIndice.js) con arr un array ordinato di numeri e x un numero, che restituisce la posizione della prima occorrenza di x in arr.
  Se non occorre in la funzione restituisce -1.
 </details>
 
