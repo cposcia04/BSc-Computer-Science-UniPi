@@ -14,9 +14,11 @@
 * Ricerca Operativa (6 cfu)
 * Calcolo numerico (6 cfu)
 * Statistica (6 cfu)
+* Algebra (6 cfu)
 
 ## Terzo anno
 * Reti e Laboratorio III (9 cfu)
+* Crittografia (6 cfu)
 * Basi di Dati (6 cfu)
 * Ingegneria del Software (6 cfu)
 * Introduzione all'intelligenza artificiale (6 cfu)
