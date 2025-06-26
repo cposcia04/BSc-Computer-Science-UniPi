@@ -14,7 +14,7 @@
 * Ricerca Operativa (6 cfu)
 * Calcolo numerico (6 cfu)
 * Statistica (6 cfu)
-* Algebra (6 cfu)
+* [Algebra](./Algebra) (6 cfu)
 
 ## Terzo anno
 * Reti e Laboratorio III (9 cfu)
