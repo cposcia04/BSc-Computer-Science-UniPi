@@ -1,0 +1,83 @@
+\section{Lezione 1}
+\begin{lezionebox}
+\begin{itemize}
+  \item Principio di induzione
+  \item Principio di induzione in forma completa
+  \item Principio di buon ordinamento
+  \item Equivalenza dei tre principi
+\end{itemize}
+\end{lezionebox}
+
+Iniziamo enunciando tre principi fondamentali dell'algebra: il \emph{principio di induzione}, il \emph{principio di induzione in forma completa} e il \emph{principio del buon ordinamento}. In seguito dimostreremo che questi tre principi sono logicamente equivalenti.
+
+
+
+\begin{definitionbox}
+\textbf{Principio di induzione.} Sia $S \subseteq \mathbb{N}$ tale che:
+\begin{enumerate}[label=(\roman*)]
+    \item $0 \in S$;
+    \item $n \in S \Rightarrow n+1 \in S$ per ogni $n \in \mathbb{N}$.
+\end{enumerate}
+Allora $S = \mathbb{N}$.
+\end{definitionbox}
+
+La definizione precedente può anche essere espressa in forma simbolica:
+\[
+\left(0 \in S \subseteq \mathbb{N} \land \forall n \in \mathbb{N} \, (n \in S \Rightarrow n+1 \in S)\right) \Rightarrow S = \mathbb{N}
+\]
+
+\begin{examplebox}
+\textbf{Esempio } Dimostrare per induzione la formula:
+\[
+\forall n \in \mathbb{N}, \quad \sum_{i=0}^n i = \frac{n(n+1)}{2}
+\]
+
+Definiamo $P(n) \leftrightarrow \sum_{i=0}^n i = \frac{n(n+1)}{2}$ e consideriamo $S = \{n \in \mathbb{N} : P(n)\ \text{è vera} \}$.
+
+\begin{itemize}
+    \item \textbf{Caso base:} 
+    \[
+    \sum_{i=0}^0 i = 0 = \frac{0\cdot(0+1)}{2} \Rightarrow 0 \in S
+    \]
+
+    \item \textbf{Passo induttivo:} Supponiamo $n \in S$, ovvero $P(n)$ vera:
+    \[
+    \sum_{i=0}^{n+1} i = \sum_{i=0}^n i + (n+1) = \frac{n(n+1)}{2} + (n+1)
+    = \frac{(n+1)(n+2)}{2}
+    \]
+    quindi $n+1 \in S$.
+\end{itemize}
+
+Per il principio di induzione, $S = \mathbb{N}$ e dunque la formula è vera per ogni $n \in \mathbb{N}$.
+\end{examplebox}
+
+
+
+\begin{definitionbox}
+\textbf{Principio di induzione in forma completa.} Sia $S \subseteq \mathbb{N}$ tale che:
+\begin{enumerate}[label=(\roman*)]
+    \item $0 \in S$;
+    \item Se $0,1,\dots,n \in S$, allora $n+1 \in S$ per ogni $n \in \mathbb{N}$.
+\end{enumerate}
+Allora $S = \mathbb{N}$.
+\end{definitionbox}
+
+Notiamo che le ipotesi del principio in forma completa sono  più deboli, ma il risultato resta invariato. IPOTESI PI IMPLICANO IPOTESI PIFC MA NON TUTTA L'IMPLICAZIONE AGGIUNGERE
+
+\begin{definitionbox}
+\textbf{Principio di buon ordinamento.} Ogni sottoinsieme non vuoto $S \subseteq \mathbb{N}$ ammette un elemento minimo.
+\end{definitionbox}
+
+
+\begin{theorembox}
+\textbf{Equivalenza dei tre principi} \quad
+Principio di induzione $\iff$ Principio di induzione in forma completa $\iff$ Principio di buon ordinamento.
+\end{theorembox}
+
+\textit{Dimostrazione.} \quad \begin{enumerate}
+    \item [(i)]\textit{Principio di induzione} $\Rightarrow$ \textit{Principio di induzione forte} \\ 
+    
+    Dobbiamo dimostrare che, supponendo che  $\left(0 \in S \subseteq \mathbb{N} \land \forall n \in \mathbb{N} \, (0,...,n \in S \Rightarrow n+1 \in S)\right) $ e che vale il principio di induzione, allora $S=\mathbb{N}$. \\
+    Definiamo un insieme $S'=\{s\in S \mid 0,...,s \in S\}$ che è un sottoinsieme di $S$, cioè $S'\subseteq S$. Facciamo vedere che $S'=\mathbb{N}$ tramite il principio di induzione, cioè che $S'$ ha le due proprietà che consentono di applicare il principio di induzione. Notiamo che $0 \in S'$
+    
+\end{enumerate}
